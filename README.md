@@ -1,6 +1,6 @@
 # GBC-prognostic-assessment
 Prediction model of AAD complicating MMP
-![image](https://github.com/chickenburge/MMP_prediction/blob/master/png/zflow.png)
+![image](https://github.com/chickenburge/GBC-prognostic-assessment/blob/main/Figure-1.png)
 
 
 
