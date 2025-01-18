@@ -17,6 +17,6 @@ To cite our work, please use the following:
 
 
 # Acknowledgements
-Thank for the authors of nnU-Net and TF-Deepsurv for making the code publicly available  
+Thank for the authors of nnU-Net and TFDeepSurv for making the code publicly available  
 https://github.com/MIC-DKFZ/nnUNet  
-https://github.com/Tencent/MedicalNet  
+https://github.com/liupei101/TFDeepSurv
